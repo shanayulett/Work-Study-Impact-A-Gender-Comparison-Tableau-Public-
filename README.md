@@ -1,9 +1,9 @@
 # Work-Study-Impact-A-Gender-Comparison-Tableau-Public-
 
-Project Overview
+Project Overview:   
 I wanted to look at something most of us have lived through which is balancing a job and school. Everyone talks about how working while studying is tough, but I wanted to actually dig into the data to see what it shows. Does working cut into study hours, and does it hit guys and girls differently? It turned out to be a really interesting way to test a real-world question using Tableau instead of just making random charts.
 
-Key Findings
+Key Findings:
 Study Hours: Working part-time doesn't significantly change study hours for either gender (averaging ~3.5 hours for both).
 
 Exam Scores: While working drops grades for both groups, male students experience a steeper drop (4.2-point decrease) compared to female students (2.5-point decrease).
