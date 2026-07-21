@@ -7,5 +7,5 @@ https://public.tableau.com/authoring/WorkStudyImpactAGenderComparison/Sheet1#1
 
 Chart 1 Hypothesis: Study Time Hours
 Question: "Does gender affect the amount of study time with a part-time jobs?"
-Answer:No, it does not. Tableau data represents female students with a part-time job study an average of 3.52 hours, and male students with a part-time job study an average of 3.54 hours. Since these numbers are virtually identical, gender does not affect study habits when balancing employment.
+Answer: No, it does not. Tableau data represents female students with a part-time job study an average of 3.52 hours, and male students with a part-time job study an average of 3.54 hours. Since these numbers are virtually identical, gender does not affect study habits when balancing employment.
 
