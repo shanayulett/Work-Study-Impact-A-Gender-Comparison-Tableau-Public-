@@ -23,7 +23,7 @@ Answer: No, it does not. Tableau data represents female students with a part-tim
 Chart 2 Hypothesis: Exam Scores
 Question: "Is the impact of part-time employment on final exam scores different between male and female students?"
 
-Answer: Yes, there is a slight difference.
+Answer: Yes, there is a slight difference between both genders and their test scores.
 
 The Data: While working a part-time job decreases exam scores for both genders, male students experience a steeper drop.
 
