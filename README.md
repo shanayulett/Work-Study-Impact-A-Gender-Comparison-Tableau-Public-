@@ -1,4 +1,4 @@
-# Work-Study-Impact-A-Gender-Comparison-Tableau-Public-
+# Work-Study-Impact-A-Gender-Comparison-with-Tableau-
 
 Project Overview:   
 I wanted to look at something most of us have lived through which is balancing a job and school. Everyone talks about how working while studying is tough, but I wanted to actually dig into the data to see what it shows. Does working cut into study hours, and does it hit guys and girls differently? It turned out to be a really interesting way to test a real-world question using Tableau instead of just making random charts.
